@@ -36,6 +36,7 @@ CONFIG_GROUP_MESSAGE = "group-message"
 CONFIG_GROUP_MESSAGE_DESCRIPTION = "group-message-description"
 CONFIG_USERNAMES_WHITELIST = "usernames-whitelist"
 CONFIG_CHAT_ID = "chat-id"
+CONFIG_PROXY = 'proxy'
 
 CONFIG_TELEGRAM_API = "telegram-api"
 CONFIG_API = "telegram-api"
